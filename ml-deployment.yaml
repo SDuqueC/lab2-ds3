@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: machinelearning
-          image: ghrc.io/lab2-ds3/sduquec/mlmodel-app:latest
+          image: ghcr.io/sduquec/mlmodel-app:latest
           ports:
             - containerPort: 80
 
